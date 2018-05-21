@@ -48,7 +48,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aladinapps.appm.katousetrmad.SettingsFragment", "fragment"
+          "com.aladinapps.appm.denyaokhra.SettingsFragment", "fragment"
         ]
       }
     ]
