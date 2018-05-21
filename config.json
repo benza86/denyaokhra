@@ -366,64 +366,26 @@
         "title":" الموسم 3 ",
         "provider":"youtube",
         "arguments":[
-	"PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+	"PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
 
           "playlist"
 
         ]
      },
 	          {
-        "title":"2 مشاهدة الحلقات",
+        "title":"2  الموسم",
         "provider":"youtube",
         "arguments":[
-          "UCGZlxOZFjRwX206bCvx3MaQ",
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
           "channel"
 
         ]
       },
        {
-        "title":"3 مشاهدة الحلقات",
+        "title":"1  الموسم",
         "provider":"youtube",
         "arguments":[
-          "UCFyBLZmPYChHrMqJA8Ye_NQ",
-          "channel"
-
-        ]
-      },
-
-	     {
-        "title":"ورثة و سلايف",
-        "provider":"youtube",
-        "arguments":[
-          "UC-P9zv_7cmhcheOPproePzA",
-          "channel"
-
-        ]
-     },
-	        {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UC-rpg9WyN7JC98JwtlQBLmw",
-          "channel"
-
-        ]
-      },
-
-	    {
-        "title":" ملخصات مترجمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCNnqAtgF-wb0zAjUZiQ_wUA",
-          "channel"
-
-        ]
-      },
-	  	  	   {
-        "title":"ملخص الحلقة القادمة : خربوش",
-        "provider":"youtube",
-        "arguments":[
-          "UCv_zCUvMwAjzn7CLxyn1RfA",
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
           "channel"
 
         ]
@@ -445,7 +407,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aladinapps.appm.katousetrmad.SettingsFragment", "fragment"
+          "com.aladinapps.appm.denyaokhra.SettingsFragment", "fragment"
         ]
       }
     ]
