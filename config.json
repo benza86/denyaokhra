@@ -16,6 +16,15 @@
 
         ]
      },
+	    	          {
+        "title":"Best Of",
+        "provider":"youtube",
+        "arguments":[
+          "UPtWLGUyHKc&list=PLFApv2COP4epsQvX3wA_6P8cB8HMqx07t",
+          "playlist"
+
+        ]
+      }
 	          {
         "title":"2 مشاهدة الحلقات",
         "provider":"youtube",
