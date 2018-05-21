@@ -28,11 +28,20 @@
         ]
       },
 	          {
-        "title":"2 مشاهدة الحلقات",
+        "title":"2 الموسم",
         "provider":"youtube",
         "arguments":[
-          "UCz2rk9ECUiwzNyH_tzGbURg",
-          "channel"
+          "wCQhZsOC68E&list=PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      }
+	              {
+        "title":"1 الموسم",
+        "provider":"youtube",
+        "arguments":[
+          "mgBJgGCAiG8&list=PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
 
         ]
       }
