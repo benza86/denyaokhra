@@ -1,103 +1,42 @@
 [
-	
-	
-	{
-     "title":"الحلقات يوتوب من هنا",
+  {
+    "title":"أخبار",
     "drawable":"",
-    "submenu":"الحلقات من هنا",
+    "submenu":"",
     "iap":false,
     "tabs":[
-	    
-	  
-
-	 {
-        "title":" الموسم 3 ",
-        "provider":"youtube",
-        "arguments":[
-	"PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
-
-          "playlist"
-
-        ]
-     },
-	          {
-        "title":"Best Of",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4epsQvX3wA_6P8cB8HMqx07t",
-          "playlist"
-
-        ]
-      }
-   ,
-	          {
-        "title":"الموسم 2",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
-          "playlist"
-
-        ]
-      }
-	    ,
-	          {
-        "title":"الموسم 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
-          "playlist"
-
-        ]
-      }
-  ]
-  }
-,
-	 {
-    "title":"الطريقة الجديدة للمشاهدة",
-    "drawable":"",
-    "submenu":"الحلقات من هنا",
-    "iap":false,
-    "tabs":[
-	    
-	     {
-        "title":"1/3 الحلقة 4",
-        "provider":"webview",
-        "arguments":[
-"https://www.elhiwarettounsi.com/series/denya-okhra/replay-episode-4-11119.html"
-	]   },
 	      {
-        "title":"2/3 4الحلقة",
-        "provider":"webview",
+        "title":"كأس العالم",
+        "provider":"wordpress",
         "arguments":[
-"https://www.elhiwarettounsi.com/series/denya-okhra/replay-episode-4-11120.html"
-	]  }  ,
-	      {
-        "title":" 3/3 4الحلقة",
-        "provider":"webview",
-		"arguments":[
-"https://www.elhiwarettounsi.com/series/denya-okhra/replay-episode-4-11121.html"
-			
-		]    }
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+	  ,
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "http://shevahd.fr/wp-json/wp/v2/"
+        ]
+      }
+
     ]
-
-  }
-		
+  },
   
-
-	
-	,
-
+ 
   {
     "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"اخري",
+    "submenu":"Other",
     "iap":false,
     "tabs":[
       {
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aladinapps.appm.denyaokhra.SettingsFragment", "fragment"
+          "com.med.appm.coupemonde.SettingsFragment", "fragment"
         ]
       }
     ]
