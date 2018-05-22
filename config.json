@@ -58,6 +58,26 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
+	     {
+        "title":"الحلقة 5",
+        "provider":"webview",
+        "arguments":[
+"https://ar.webmanagercenter.com/2018/05/22/230377/%D8%B3%D9%8A%D8%AA%D9%83%D9%88%D9%85-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-5/"
+	]   },
+	      {
+        "title":"3 4الحلقة",
+        "provider":"webview",
+        "arguments":[
+"https://ar.webmanagercenter.com/2018/05/21/230220/%D8%B3%D9%8A%D8%AA%D9%83%D9%88%D9%85-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A3%D8%AE%D8%B1%D9%89-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-3-%D9%884/"
+	]  }  ,
+	      {
+        "title":" 2 الحلقة",
+        "provider":"webview",
+		"arguments":[
+"https://ar.webmanagercenter.com/2018/05/19/230027/%D8%AF%D9%86%D9%8A%D8%A7-%D8%A3%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-2/"
+			
+		]    }
+	    ,
 	    
 	     {
         "title":"الحلقة 5",
