@@ -25,11 +25,30 @@
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4epsQvX3wA_6P8cB8HMqx07t",
-          "channel"
+          "playlist"
 
         ]
       }
-   
+   ,
+	          {
+        "title":"الموسم 2",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      }
+	    ,
+	          {
+        "title":"الموسم 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
+
+        ]
+      }
   ]
   }
 ,
