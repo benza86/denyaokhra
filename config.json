@@ -123,7 +123,7 @@
     "iap":false,
     "tabs":[
 	   {
-        "title":"البث المباشر",
+        "title":" البث المباشر",
         "provider":"webview",
         "arguments":[
 "https://www.elhiwarettounsi.com/live.html"
