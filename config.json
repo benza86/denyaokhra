@@ -114,9 +114,27 @@
     ]
 
   }
-		
+,		
   
-
+{
+     "title":"البث المباشر",
+    "drawable":"",
+    "submenu":"الحوار بث مباشر",
+    "iap":false,
+    "tabs":[
+	   {
+        "title":"البث المباشر",
+        "provider":"webview",
+        "arguments":[
+"https://www.elhiwarettounsi.com/live.html"
+	]
+      }
+	       
+   
+  ]
+  }
+	
+	
 	
 	,
 
