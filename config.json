@@ -20,17 +20,7 @@
 
         ]
      },
-	          {
-        "title":"Best Of",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4epsQvX3wA_6P8cB8HMqx07t",
-          "playlist"
-
-        ]
-      }
-   ,
-	          {
+	                   {
         "title":"الموسم 2",
         "provider":"youtube",
         "arguments":[
@@ -58,7 +48,31 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
-	   
+	     {
+        "title":"الحلقة 9",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-9-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-9/"
+	]   },
+	     {
+        "title":"الحلقة 8",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-8-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-8/"
+	]   },
+	     {
+        "title":"الحلقة 7",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-7-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-7/"
+	]   },
+	    
+	    {
+        "title":"الحلقة 6",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-6-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-6/"
+	]   },
 	    
 	     {
         "title":"الحلقة 5",
