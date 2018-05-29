@@ -48,6 +48,24 @@
     "submenu":"الحلقات من هنا",
     "iap":false,
     "tabs":[
+	        {
+        "title":"الحلقة 12",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-12-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-12/"
+	]   },
+	         {
+        "title":"الحلقة 11",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-11-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-11/"	]   },
+	    
+	    {
+        "title":"الحلقة 10",
+        "provider":"webview",
+        "arguments":[
+"http://romdhantn.tn/denya-okhra-3-episode-10-%D8%AF%D9%86%D9%8A%D8%A7-%D8%A7%D8%AE%D8%B1%D9%89-3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-10/"
+	]   },
 	     {
         "title":"الحلقة 9",
         "provider":"webview",
