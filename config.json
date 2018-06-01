@@ -8,7 +8,16 @@
     "iap":false,
     "tabs":[
 	    
-	  
+	  {
+        "title":"الي ليك ليك ",
+        "provider":"youtube",
+        "arguments":[
+	"PLFApv2COP4erK3t-HoTCvHfqEhmGrBCim",
+
+          "playlist"
+
+        ]
+     }, 
 
 	 {
         "title":" الموسم 3 ",
